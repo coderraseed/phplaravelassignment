@@ -1,0 +1,6 @@
+
+1.  Install composer
+2.  install composer create-project laravel/laravel folder-name using cmd
+3.  Then use this(cd folder-name) command for going to that folder
+4.  Then check the installation is successfully by using this command (php artisan serve)
+5.  Finally successfully show that screenshot.

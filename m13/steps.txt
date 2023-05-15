@@ -1,0 +1,6 @@
+To complete this assignment I have follow the following steps
+1.  First I have install the composer.
+2.  Then I have instal laravel using composer.
+3.  Then I have checked the laravel installation using artisan command.
+4.  Then I have write  description all the folders in a laravel project which are mentioned.
+5.  I have took the screenshot and submit it.
