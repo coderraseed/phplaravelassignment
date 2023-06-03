@@ -52,14 +52,14 @@ class FormController extends Controller{
     }
 
 
-
+     //Answer to the question no -5
     function SetCookie(Request $request){
         $rememberToken = $request->cookie('remember_token',null);
         return $rememberToken;
     }
 
 
-    
+
 
 }
 
