@@ -19,6 +19,7 @@ return new class extends Migration
 
             // Establish foreign key relationship with the "products" table
             $table->foreign('product_id')->references('id')->on('products');
+            //assignment completed
         });
     }
 
